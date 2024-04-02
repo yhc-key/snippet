@@ -122,3 +122,5 @@ export default function ModalCustom({
     document.getElementById("globalModal") as HTMLElement
   );
 }
+
+// TypeScript 와 react사용 , 모달 자체는 Nextjs에서 사용
