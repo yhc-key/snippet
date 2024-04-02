@@ -124,3 +124,6 @@ export default function ModalCustom({
 }
 
 // TypeScript 와 react사용 , 모달 자체는 Nextjs에서 사용
+// globalModal이라는것을 root app 밑에 넣어두어 거기에 끼워넣는 식으로 진행
+// NextJs는 intercept page가 있어서 이를 이용해 모달 구현이 가능하지만 과거방식으로 구현한 것에 nextJs 방식으로 진행
+// TailwindCSS 기반으로 스타일링
